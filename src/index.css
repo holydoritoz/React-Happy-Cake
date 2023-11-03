@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.bg-cake-color {
+  background-color: #DC3546;
+}
+
+.bg-gray {
+  background-color: #CCD6DD;
+}
