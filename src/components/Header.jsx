@@ -4,7 +4,7 @@ import {NavLink} from "react-router-dom";
 export const Header = () => {
   return (
     <>
-      <Navbar className="bg-cake-color" data-bs-theme="dark">
+      <Navbar className="red-color" data-bs-theme="dark">
         <Container className="p-0">
           <NavLink to="/" className="navbar-brand">
           <i className="fa-solid fa-cake-candles"></i> Happy Cake
